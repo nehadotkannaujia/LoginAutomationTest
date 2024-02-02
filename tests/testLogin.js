@@ -1,4 +1,3 @@
-const { Builder } = require("selenium-webdriver");
 const assert = require("assert");
 let LoginPage = require("../LoginPage");
 
